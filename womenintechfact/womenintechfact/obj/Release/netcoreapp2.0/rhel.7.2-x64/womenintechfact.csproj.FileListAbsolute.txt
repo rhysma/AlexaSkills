@@ -1,0 +1,11 @@
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\bin\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.deps.json
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\bin\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.runtimeconfig.json
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\bin\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.runtimeconfig.dev.json
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\bin\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.dll
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\bin\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.pdb
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.csprojAssemblyReference.cache
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.csproj.CoreCompileInputs.cache
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.AssemblyInfoInputs.cache
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.AssemblyInfo.cs
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.dll
+C:\Users\rhysm\Source\Repos\womenintechfact\womenintechfact\obj\Release\netcoreapp2.0\rhel.7.2-x64\womenintechfact.pdb
