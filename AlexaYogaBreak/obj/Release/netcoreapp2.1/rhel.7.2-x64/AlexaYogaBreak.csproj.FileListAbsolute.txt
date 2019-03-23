@@ -1,0 +1,11 @@
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\bin\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.deps.json
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\bin\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.runtimeconfig.json
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\bin\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.runtimeconfig.dev.json
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\bin\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.dll
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\bin\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.pdb
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.csprojAssemblyReference.cache
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.csproj.CoreCompileInputs.cache
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.AssemblyInfoInputs.cache
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.AssemblyInfo.cs
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.dll
+C:\Users\rhysm\Source\Repos\AlexaYogaBreak\AlexaYogaBreak\obj\Release\netcoreapp2.1\rhel.7.2-x64\AlexaYogaBreak.pdb
