@@ -1,0 +1,11 @@
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\bin\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.deps.json
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\bin\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.runtimeconfig.json
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\bin\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.runtimeconfig.dev.json
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\bin\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.dll
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\bin\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.pdb
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.csprojAssemblyReference.cache
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.csproj.CoreCompileInputs.cache
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.AssemblyInfoInputs.cache
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.AssemblyInfo.cs
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.dll
+C:\Users\rhysm\Source\Repos\alexawitskill\alexawitskill\obj\Release\netcoreapp2.1\rhel.7.2-x64\alexawitskill.pdb
